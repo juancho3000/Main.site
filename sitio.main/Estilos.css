@@ -42,3 +42,15 @@ nav .nav-right-section .menu-icon{
     width: 25px;
     height: 25px;
 }
+
+nav .nav-right-section img{
+    border-radius: 50%;
+    margin-left: 10px;
+    width: 30%;
+}
+
+main{
+    margin-top: 150px;
+    text-align: center;
+    
+}
